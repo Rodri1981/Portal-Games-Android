@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Portal-Games-Android/static/css/main.2be0f5a8.css",
+    "main.js": "/Portal-Games-Android/static/js/main.cd03c9f1.js",
+    "index.html": "/Portal-Games-Android/index.html",
+    "main.2be0f5a8.css.map": "/Portal-Games-Android/static/css/main.2be0f5a8.css.map",
+    "main.cd03c9f1.js.map": "/Portal-Games-Android/static/js/main.cd03c9f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2be0f5a8.css",
+    "static/js/main.cd03c9f1.js"
+  ]
+}
